@@ -1,0 +1,14 @@
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.deps.json
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.runtimeconfig.json
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.dll
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.pdb
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfo.cs
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.dll
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/refint/RockPaperScissors.dll
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.pdb
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.genruntimeconfig.cache
+/Users/mederabdymambetov/Desktop/Новая папка 2/RockPaperScissors/obj/Debug/net8.0/ref/RockPaperScissors.dll
